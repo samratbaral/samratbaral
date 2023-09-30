@@ -24,7 +24,7 @@
 <p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
 </p>
 <br>
-💻 **Languages and Tools:** 🛠️<br>
+<h5>💻 Languages & Tools 🛠️<br></h5>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -56,7 +56,61 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&labelColor=FFCA28)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&labelColor=092E20)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&labelColor=000000)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&labelColor=f5f5f5f5f5f5)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&labelColor=f5f5f5f5f5f5)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&labelColor=f5f5f5f5f5f5)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&labelColor=f5f5f5f5f5f5)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&labelColor=f5f5f5f5f5f5)
+![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab&labelColor=f5f5f5f5f5f5)
+![Octave](https://img.shields.io/badge/-Octave-000000?style=flat&logo=octave&labelColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&labelColor=ffffff)
+![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch&labelColor=ffffff)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn&labelColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras&labelColor=f5f5f5f5f5f5)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&labelColor=f5f5f5f5f5f5)
+![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy&labelColor=f5f5f5f5f5f5)
+![Scipy](https://img.shields.io/badge/-Scipy-000000?style=flat&logo=scipy&labelColor=f5f5f5f5f5f5)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&labelColor=f5f5f5f5f5f5)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&labelColor=f5f5f5f5f5f5)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda&labelColor=f5f5f5f5f5f5)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-000000?style=flat&logo=google-colab&labelColor=ffffff)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat&logo=raspberry-pi&labelColor=f5f5f5f5f5f5)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&labelColor=f5f5f5f5f5f5)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&labelColor=f5f5f5f5f5f5)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unreal-engine&labelColor=f5f5f5f5f5f5)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000000?style=flat&logo=adobe-xd&labelColor=f5f5f5f5f5f5)
+![notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&labelColor=f5f5f5f5f5f5)
+![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello&labelColor=f5f5f5f5f5f5)
+![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack&labelColor=f5f5f5f5f5f5)
+![Discord](https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord&labelColor=f5f5f5f5f5f5)
+![Zoom](https://img.shields.io/badge/-Zoom-000000?style=flat&logo=zoom&labelColor=f5f5f5f5f5f5)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&labelColor=f5f5f5f5f5f5)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&labelColor=f5f5f5f5f5f5)
+![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=f5f5f5f5f5f5)
+![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&labelColor=f5f5f5f5f5f5)
+![ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&labelColor=f5f5f5f5f5f5)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&labelColor=f5f5f5f5f5f5)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&labelColor=f5f5f5f5f5f5)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=macos&labelColor=f5f5f5f5f5f5)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&labelColor=f5f5f5f5f5f5)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&labelColor=f5f5f5f5f5f5)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&labelColor=f5f5f5f5f5f5)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&labelColor=f5f5f5f5f5f5)
+![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&labelColor=f5f5f5f5f5f5)
+![kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&labelColor=f5f5f5f5f5f5)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000000?style=flat&logo=amazon-aws&labelColor=f5f5f5f5f5f5)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&labelColor=f5f5f5f5f5f5)
+![mpi](https://img.shields.io/badge/-MPI-000000?style=flat&logo=mpi&labelColor=f5f5f5f5f5f5)
+![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl&labelColor=f5f5f5f5f5f5)
 
+
+
+
+br>
 <pre class="tab1">
 🧐 **Professonal Coursework:**<br>
 Object-Oriented Programming   Data Structures and Algorithms     Software Engineering
@@ -74,13 +128,8 @@ Information Security
 <a href="https://github.com/samratbaral/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratbaral&layout=compact&langs_count=8&card_width=320" />
 </a>
-<img align="center" style="border-radius: 1px; margin: 0 0 1px 10px;" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="" />
+<!-- <img align="center" style="border-radius: 1px; margin: 0 0 1px 10px;" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="" /> -->
 </p>
 <br>
 
 
-
-
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats#use-githubs-new-media-feature -->
