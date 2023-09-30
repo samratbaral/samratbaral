@@ -1,24 +1,3 @@
-
-<!-- Used for the CSS styling of the README.md file -->
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 48.33%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-
 <p align='right'>
     <a href="#"><img src="https://badges.pufler.dev/visits/samratbaral/samratbaral"></a>
     <a href="#"><img src="https://badges.pufler.dev/years/samratbaral"></a>
@@ -41,15 +20,6 @@
 <p align='center'> Passionate Developer | Research Assistant | Computer Science Engineer </p>
 </h1>
 
-
-<div class="row">
-  <div class="column">
-    <img style="border-radius: 1px; margin: 0 0 20px 100px;" alt="GIF" width="900px" height="397px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="" />
-  </div>
-  <div class="column">
-    <img align="right" alt="GIF" width="500px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratbaral&langs_count=8" alt="" />
-    </div>
-</div>
 
 <p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
 </p>
@@ -87,9 +57,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
-
-
-
 <pre class="tab1">
 🧐 **Professonal Coursework:**<br>
 Object-Oriented Programming   Data Structures and Algorithms     Software Engineering
@@ -99,6 +66,20 @@ Theoretical Concepts          Database and File Structure        Programming Lan
 Parallel Processing           Software Testing and Maintenance   Operation Research
 Information Security
 </pre>
+
+<p align='center'>
+<a href="https://github.com/samratbaral/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samratbaral" />
+</a>
+<a href="https://github.com/samratbaral/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratbaral&layout=compact&langs_count=8&card_width=320" />
+</a>
+<img align="center" style="border-radius: 1px; margin: 0 0 1px 10px;" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="" />
+</p>
+<br>
+
+
+
 
 
 
