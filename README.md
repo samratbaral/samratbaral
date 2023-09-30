@@ -14,9 +14,9 @@
 <h1 align='center'><samp><strong>Hi there 👋, I am Samrat Baral</strong></samp>
 </h1>
 
-<h4>
+<h2>
 <p align='center'> Passionate Developer | Research Assistant | Computer Science Engineer </p>
-</h1>
+</h2>
 
 <p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
 </p>
