@@ -5,25 +5,23 @@
     <a href="#"><img src="https://badges.pufler.dev/gists/samratbaral"></a>
     <a href="#"><img src="https://badges.pufler.dev/commits/monthly/samratbaral"></a>
     <a href="#"><img src="https://badges.pufler.dev/commits/yearly/samratbaral"></a>
+
 </p>
-<h1 align='center'><samp><strong>Hi there 👋, I am Samrat Baral</strong><h3 align='center'><strong>
 
-<a href="https://github.com/samratbaral/3d-portfolio#readme" target="_blank"> Portfolio </a></strong></h3></samp>
-
-<p align='center'>
+<p align='left'>
     <a href="https://www.linkedin.com/in/samratbaral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Samrat%20Baral-blue?style=flat-square&logo=linkedin"></a>
 </p>
-
+<h1 align='center'><samp><strong>Hi there 👋, I am Samrat Baral</strong></samp>
 </h1>
 
 <h4>
 <p align='center'> Passionate Developer | Research Assistant | Computer Science Engineer </p>
 </h1>
 
-
 <p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
 </p>
-<br>
+
+
 <h5>💻 Languages & Tools 🛠️<br></h5>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -107,12 +105,8 @@
 ![mpi](https://img.shields.io/badge/-MPI-000000?style=flat&logo=mpi&labelColor=f5f5f5f5f5f5)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl&labelColor=f5f5f5f5f5f5)
 
-
-
-
-br>
 <pre class="tab1">
-🧐 **Professonal Coursework:**<br>
+🧐 Professonal Coursework:<br>
 Object-Oriented Programming   Data Structures and Algorithms     Software Engineering
 Database Management System    Operating System                   Computer Networks
 Computer Architecture         Computer Graphics                  Artificial Intelligence
