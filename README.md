@@ -1,15 +1,25 @@
 <p align='right'>
-    <a href="#"><img src="https://badges.pufler.dev/visits/samratbaral/samratbaral"></a>
+    <!-- <a href="#"><img src="https://badges.pufler.dev/visits/samratbaral/samratbaral"></a> -->
     <a href="#"><img src="https://badges.pufler.dev/years/samratbaral"></a>
     <a href="#"><img src="https://badges.pufler.dev/repos/samratbaral"></a>
-    <a href="#"><img src="https://badges.pufler.dev/gists/samratbaral"></a>
-    <a href="#"><img src="https://badges.pufler.dev/commits/monthly/samratbaral"></a>
+    <!-- <a href="#"><img src="https://badges.pufler.dev/gists/samratbaral"></a> -->
+    <!-- <a href="#"><img src="https://badges.pufler.dev/commits/monthly/samratbaral"></a> -->
     <a href="#"><img src="https://badges.pufler.dev/commits/yearly/samratbaral"></a>
 
 </p>
 
 <p align='left'>
-    <a href="https://www.linkedin.com/in/samratbaral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Samrat%20Baral-blue?style=flat-square&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/samratbaral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-samratbaral-lightblue?style=flat-square&logo=linkedin"></a>
+    <!-- <a href="https://www.stackoverflow.com/users/12484101/samrat-baral" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-samratbaral-blue?style=flat-square&logo=stackoverflow"></a>
+    <a href="https://www.hackerrank.com/samratbaral" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-samratbaral-blue?style=flat-square&logo=hackerrank"></a>
+    <a href="https://www.codechef.com/users/samratbaral" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-samratbaral-blue?style=flat-square&logo=codechef"></a>
+    <a href="https://www.codeforces.com/profile/samratbaral" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-samratbaral-blue?style=flat-square&logo=codeforces"></a>
+    <a href="https://www.hackerearth.com/@samratbaral" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-samratbaral-blue?style=flat-square&logo=hackerearth"></a>
+    <a href="https://www.topcoder.com/members/samratbaral" target="_blank"><img alt="TopCoder" src="https://img.shields.io/badge/TopCoder-samratbaral-blue?style=flat-square&logo=topcoder"></a>
+    <a href="https://www.freecodecamp.org/samratbaral" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-samratbaral-blue?style=flat-square&logo=freecodecamp"></a>
+    <a href="https://www.fiverr.com/samratbaral" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-samratbaral-blue?style=flat-square&logo=fiverr"></a> -->
+    <a href="https://open.spotify.com/user/samratbaral" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-samratbaral-lightgreen?style=flat-square&logo=spotify"></a>
+    <a href="https://www.buymeacoffee.com/samratbaral" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-samratbaral-lightyellow?style=flat-square&logo=buy-me-a-coffee"></a>
 </p>
 <h1 align='center'><samp><strong>Hi there 👋, I am Samrat Baral</strong></samp>
 </h1>
@@ -21,6 +31,16 @@
 <p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
 </p>
 
+
+<pre class="tab1">
+🧐 Professional Coursework:<br>
+Object-Oriented Programming   Data Structures and Algorithms     Software Engineering
+Database Management System    Operating System                   Computer Networks
+Computer Architecture         Computer Graphics                  Artificial Intelligence
+Theoretical Concepts          Database and File Structure        Programming Languages
+Parallel Processing           Software Testing and Maintenance   Operation Research
+Information Security
+</pre>
 
 <h5>💻 Languages & Tools 🛠️<br></h5>
 
@@ -105,23 +125,14 @@
 ![mpi](https://img.shields.io/badge/-MPI-000000?style=flat&logo=mpi&labelColor=f5f5f5f5f5f5)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl&labelColor=f5f5f5f5f5f5)
 
-<pre class="tab1">
-🧐 Professonal Coursework:<br>
-Object-Oriented Programming   Data Structures and Algorithms     Software Engineering
-Database Management System    Operating System                   Computer Networks
-Computer Architecture         Computer Graphics                  Artificial Intelligence
-Theoretical Concepts          Database and File Structure        Programming Languages
-Parallel Processing           Software Testing and Maintenance   Operation Research
-Information Security
-</pre>
 
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://github.com/samratbaral/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samratbaral" />
-</a>
-<a href="https://github.com/samratbaral/convoychat">
+</a> -->
+<!-- <a href="https://github.com/samratbaral/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratbaral&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> -->
 <!-- <img align="center" style="border-radius: 1px; margin: 0 0 1px 10px;" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="" /> -->
 </p>
 <br>
