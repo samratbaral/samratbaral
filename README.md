@@ -21,7 +21,7 @@
     <a href="https://www.fiverr.com/samratbaral" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-samratbaral-blue?style=flat-square&logo=fiverr"></a> -->
     <!-- <a href="https://open.spotify.com/user/samratbaral" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-samratbaral-lightgreen?style=flat-square&logo=spotify"></a> -->
     <!-- <a href="https://www.buymeacoffee.com/samratbaral" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-samratbaral-lightyellow?style=flat-square&logo=buy-me-a-coffee"></a> -->
-        <a href="https://media.licdn.com/dms/image/D562DAQHRiw03afuM2w/profile-treasury-image-shrink_800_800/0/1701661419815?e=1702267200&v=beta&t=yYa3fY5MAdNRpxw6eAeRh7YoeOyOviFo3NHdZlbvpE8"><img src="https://media.licdn.com/dms/image/D562DAQHRiw03afuM2w/profile-treasury-image-shrink_800_800/0/1701661419815?e=1702267200&v=beta&t=yYa3fY5MAdNRpxw6eAeRh7YoeOyOviFo3NHdZlbvpE8">
+        <a href="https://media.licdn.com/dms/image/D562DAQFTaQZHRHb1Kg/profile-treasury-image-shrink_800_800/0/1701664576161?e=1702270800&v=beta&t=El0QJpDMnXAGjQkQ1y8DAAkd9lScTBKpGIj-MbNDEg8"><img src="https://media.licdn.com/dms/image/D562DAQFTaQZHRHb1Kg/profile-treasury-image-shrink_800_800/0/1701664576161?e=1702270800&v=beta&t=El0QJpDMnXAGjQkQ1y8DAAkd9lScTBKpGIj-MbNDEg8">
     </a>
 </p>
 <p align='center'>
