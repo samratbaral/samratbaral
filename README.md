@@ -1,3 +1,4 @@
+
 <p align='right'>
     <!-- <a href="#"><img src="https://badges.pufler.dev/visits/samratbaral/samratbaral"></a> -->
     <a href="#"><img src="https://badges.pufler.dev/years/samratbaral"></a>
@@ -7,6 +8,12 @@
     <a href="#"><img src="https://badges.pufler.dev/commits/yearly/samratbaral"></a>
 
 </p>
+
+<p align='center'>
+    <a href="https://media.licdn.com/dms/image/D562DAQHYGD1IjOQ64Q/profile-treasury-image-shrink_1920_1920/0/1701654364295?e=1702260000&v=beta&t=cRoC6J-rbRFmQlC9QkdRco5WG3bisUDPQq2JzBuQ0XQ"><img src="https://media.licdn.com/dms/image/D562DAQEVnuPpL2njGg/profile-treasury-image-shrink_800_800/0/1701657653249?e=1702263600&v=beta&t=yXE6UIaO-28nEKmXptYLY57tPbv2aRx6zaaCiPtF60I">
+    </a>
+</p>
+
 
 <p align='left'>
     <a href="https://www.linkedin.com/in/samratbaral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-samratbaral-lightblue?style=flat-square&logo=linkedin"></a>
@@ -21,18 +28,29 @@
     <a href="https://open.spotify.com/user/samratbaral" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-samratbaral-lightgreen?style=flat-square&logo=spotify"></a>
     <a href="https://www.buymeacoffee.com/samratbaral" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-samratbaral-lightyellow?style=flat-square&logo=buy-me-a-coffee"></a>
 </p>
-<h1 align='center'><samp><strong>Hi there 👋, I am Samrat Baral</strong></samp>
+<!-- <h1 align='center'><samp><strong>Hi 👋, I am Samrat</strong></samp> -->
 </h1>
 
-<h2>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=100&lines=WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
+ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=HindSiliguri&size=49&duration=3000&pause=3000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=100&lines={+Hello+World+!};I+am+Samrat+Baral)](https://git.io/typing-svg)
+
+<!--   my-ticker -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=3000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=890&height=200&lines=Quotes+:+"+Never+Settle,+Always+Learning!+";;Experience+:+4+Years+of+Software+Development;;Education+:+CSE+@+University+of+Texas+at+Arlington)](https://git.io/typing-svg)
+
+
+
+
+<!-- <h2>
 <p align='center'> Passionate Developer | Research Assistant | Computer Science Engineer </p>
-</h2>
+</h2> -->
 
-<p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
-</p>
+<!-- <p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
+</p> -->
 
 
-<pre class="tab1">
+<!-- <pre class="tab1">
 🧐 Professional Coursework:<br>
 Object-Oriented Programming   Data Structures and Algorithms     Software Engineering
 Database Management System    Operating System                   Computer Networks
@@ -40,8 +58,9 @@ Computer Architecture         Computer Graphics                  Artificial Inte
 Theoretical Concepts          Database and File Structure        Programming Languages
 Parallel Processing           Software Testing and Maintenance   Operation Research
 Information Security
-</pre>
+</pre> -->
 
+<!--
 <h5>💻 Languages & Tools 🛠️<br></h5>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -123,7 +142,7 @@ Information Security
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000000?style=flat&logo=amazon-aws&labelColor=f5f5f5f5f5f5)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&labelColor=f5f5f5f5f5f5)
 ![mpi](https://img.shields.io/badge/-MPI-000000?style=flat&logo=mpi&labelColor=f5f5f5f5f5f5)
-![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl&labelColor=f5f5f5f5f5f5)
+![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl&labelColor=f5f5f5f5f5f5) -->
 
 
 <!-- <p align='center'>
