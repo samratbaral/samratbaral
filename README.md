@@ -8,15 +8,8 @@
     <a href="#"><img src="https://badges.pufler.dev/commits/yearly/samratbaral"></a>
 
 </p>
-
-<p align='center'>
-    <a href="https://media.licdn.com/dms/image/D562DAQHYGD1IjOQ64Q/profile-treasury-image-shrink_1920_1920/0/1701654364295?e=1702260000&v=beta&t=cRoC6J-rbRFmQlC9QkdRco5WG3bisUDPQq2JzBuQ0XQ"><img src="https://media.licdn.com/dms/image/D562DAQEVnuPpL2njGg/profile-treasury-image-shrink_800_800/0/1701657653249?e=1702263600&v=beta&t=yXE6UIaO-28nEKmXptYLY57tPbv2aRx6zaaCiPtF60I">
-    </a>
-</p>
-
-
 <p align='left'>
-    <a href="https://www.linkedin.com/in/samratbaral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-samratbaral-lightblue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/samratbaral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-samratbaral-lightblue?style=flat-square&logo=linkedin"></a>
     <!-- <a href="https://www.stackoverflow.com/users/12484101/samrat-baral" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-samratbaral-blue?style=flat-square&logo=stackoverflow"></a>
     <a href="https://www.hackerrank.com/samratbaral" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-samratbaral-blue?style=flat-square&logo=hackerrank"></a>
     <a href="https://www.codechef.com/users/samratbaral" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-samratbaral-blue?style=flat-square&logo=codechef"></a>
@@ -27,17 +20,23 @@
     <a href="https://www.fiverr.com/samratbaral" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-samratbaral-blue?style=flat-square&logo=fiverr"></a> -->
     <a href="https://open.spotify.com/user/samratbaral" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-samratbaral-lightgreen?style=flat-square&logo=spotify"></a>
     <a href="https://www.buymeacoffee.com/samratbaral" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-samratbaral-lightyellow?style=flat-square&logo=buy-me-a-coffee"></a>
+        <a href="https://media.licdn.com/dms/image/D562DAQHRiw03afuM2w/profile-treasury-image-shrink_800_800/0/1701661419815?e=1702267200&v=beta&t=yYa3fY5MAdNRpxw6eAeRh7YoeOyOviFo3NHdZlbvpE8"><img src="https://media.licdn.com/dms/image/D562DAQHRiw03afuM2w/profile-treasury-image-shrink_800_800/0/1701661419815?e=1702267200&v=beta&t=yYa3fY5MAdNRpxw6eAeRh7YoeOyOviFo3NHdZlbvpE8">
+    </a>
 </p>
-<!-- <h1 align='center'><samp><strong>Hi 👋, I am Samrat</strong></samp> -->
-</h1>
+<p align='center'>
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=100&lines=WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
- -->
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=HindSiliguri&size=49&duration=3000&pause=3000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=100&lines={+Hello+World+!};I+am+Samrat+Baral)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=5000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=100&lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=HindSiliguri&size=49&duration=6000&pause=3000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=50&lines={+Hello+World+!})](https://git.io/typing-svg) -->
 
 <!--   my-ticker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=3000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=890&height=200&lines=Quotes+:+"+Never+Settle,+Always+Learning!+";;Experience+:+4+Years+of+Software+Development;;Education+:+CSE+@+University+of+Texas+at+Arlington)](https://git.io/typing-svg)
+[![Hello](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=9000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=890&height=50&lines=Quotes+:+"+Never+Settle,+Always+Learn!+";+Hello+World+!;I+am+Samrat+Baral;I+am+a+Computer+Scientist,+a+Software+Developer;and+I+am+a+Research+Assistant;)](https://git.io/typing-svg)
+
+<!--   my-ticker -->
+[![Hello](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=10000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=890&height=50&lines=Experience+:+4+Years+of+Software+Development;lets+solve+problems+!!!;Some+project+are+open+source+check+below;ENJOY!!!)](https://git.io/typing-svg)
+
 
 
 
