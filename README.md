@@ -1,47 +1,28 @@
-
 <p align='right'>
      <a href="https://www.linkedin.com/in/samratbaral/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/samratbaral"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
-
+[![BIO](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=30&duration=1000&pause=1000&color=58FF7B&background=ACFF6500&center=true&vCenter=false&multiline=true&repeat=false&random=false&width=1300&height=40&lines=Passionate+Software+Developer+%7C+Research+Assistant+%7C+Computer+Scientist)](https://git.io/typing-svg)
   ![Landing Page](image/cover_portfolio.png)
-
 [![WELCOME](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=5000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=80&lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
-[![BIO](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=30&duration=1000&pause=1000&color=58FF7B&background=ACFF6500&center=true&vCenter=false&multiline=true&repeat=false&random=false&width=1300&height=40&lines=Passionate+Developer+%7C+Research+Assistant+%7C+Computer+Science+Engineer+)](https://git.io/typing-svg)
-
 <!-- <details open> #only when you want to open it while loading the page!-->
 <details>
-   <summary>
-   <h2>
-
-   ❖ About Me
-   </h2></summary>
+   <summary><h3> ❖ About Me </h3></summary>
 
    [![SUMMARY](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=800&pause=1000&color=58FF7B&background=ACFF6500&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1200&height=180&lines=+I+am+a+student+in+Computer+Science.+An+accomplished+research+assistant+with+hands;+on+experience+in+web+development.+I+learned+about+Medical+Neuroscience+Image+;processing+and+how+to+use+tools+like+scikitlearn,+Pytorch,+TensorFlow,+DL,;+Python,+and+a+commitment+to+continuous+learning.+My+major+passion+lies+in+Deep+;Learning,+Web+development,+Mobile+App+development+,+and+Software+Development+on+;both+agile+and+waterfall+methods.)](https://git.io/typing-svg)
-
 </details>
-
-
 <details>
-   <summary><h2> ❖ Education and Interests </h2></summary>
+   <summary><h3> ❖ Education and Interests </h3></summary>
 
 [![Hello](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=12000&pause=11000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=90&lines=+"+Never+Settle,+Always+Learn!+";I+am+Computer+Scientist,+CS+Student+and+Research+Assistant.;)](https://git.io/typing-svg)
-
-
-
 [![COURSES](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=500&pause=100&color=58FF7B&background=ACFF6500&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1200&height=550&lines=Topic+Interested+:+Always+Adding;;+►+Artificial+Intelligence;+►+Computer+Architecture;+►+Computer+Graphics;+►+Computer+Networks;+►+Database+and+File+Structure;+►+Database+Management+System;+►+Data+Structures+and+Algorithms;+►+Information+Security+Crptography;+►+Object+Oriented+Programming;+►+Operation+Research;+►+Operating+System;+►+Parallel+Processing;+►+Programming+Languages;+►+Software+Design+Patterns;+►+Software+Testing+and+Maintenance;+►+Theoretical+Concepts;)](https://git.io/typing-svg)
-
-</details open>
-
+</details>
 <details>
-  <summary><h2> ❖ Languages & Tools </h2></summary>
-  <h3>
+  <summary><h3> ❖ Languages & Tools </h3></summary>
 
 [![Experience](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=10000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=890&height=50&lines=Experience+:+4+Years+of+Software+Development)](https://git.io/typing-svg)
-  </h3>
-
   <p>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -127,14 +108,12 @@
   </p>
 </details>
 
-
 <details>
-  <summary><h2> ❖ Open Source Contribution</h2></summary>
+  <summary><h3> ❖ Open Source Contribution</h3></summary>
   <p align="left">
-    <a href="https://github.com/samratbaral/smartplanter-plantways"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samratbaral&repo=smartplanter-plantways&theme=react&bg_color=1F222E&title_color=58FF7B&hide_border=true&icon_color=58FF7B&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/samratbaral/smartplanter-plantways"><img width="248" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samratbaral&repo=smartplanter-plantways&theme=react&bg_color=1F222E&title_color=58FF7B&hide_border=true&icon_color=58FF7B&show_icons=true" alt="readme-typing-svg"></a>
   </p>
 </details>
-
 
 [![END](https://readme-typing-svg.herokuapp.com?font=Shizuru&size=49&duration=5000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=890&height=60&lines=Lets+Solve+Problems+!!!;ENJOY+CODING!!!)](https://git.io/typing-svg)
 
