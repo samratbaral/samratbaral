@@ -1,67 +1,48 @@
 
 <p align='right'>
-    <!-- <a href="#"><img src="https://badges.pufler.dev/visits/samratbaral/samratbaral"></a> -->
-    <!-- <a href="#"><img src="https://badges.pufler.dev/years/samratbaral"></a> -->
-    <a href="#"><img src="https://badges.pufler.dev/repos/samratbaral"></a>
-    <a href="https://www.buymeacoffee.com/samratbaral" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-samratbaral-lightyellow?style=flat-square&logo=buy-me-a-coffee"></a>
-    <!-- <a href="#"><img src="https://badges.pufler.dev/gists/samratbaral"></a> -->
-    <!-- <a href="#"><img src="https://badges.pufler.dev/commits/monthly/samratbaral"></a> -->
-    <!-- <a href="#"><img src="https://badges.pufler.dev/commits/yearly/samratbaral"></a> -->
-
-</p>
-<p align='left'>
-<!-- <a href="https://www.linkedin.com/in/samratbaral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-samratbaral-lightblue?style=flat-square&logo=linkedin"></a> -->
-    <!-- <a href="https://www.stackoverflow.com/users/12484101/samrat-baral" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-samratbaral-blue?style=flat-square&logo=stackoverflow"></a>
-    <a href="https://www.hackerrank.com/samratbaral" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-samratbaral-blue?style=flat-square&logo=hackerrank"></a>
-    <a href="https://www.codechef.com/users/samratbaral" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-samratbaral-blue?style=flat-square&logo=codechef"></a>
-    <a href="https://www.codeforces.com/profile/samratbaral" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-samratbaral-blue?style=flat-square&logo=codeforces"></a>
-    <a href="https://www.hackerearth.com/@samratbaral" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-samratbaral-blue?style=flat-square&logo=hackerearth"></a>
-    <a href="https://www.topcoder.com/members/samratbaral" target="_blank"><img alt="TopCoder" src="https://img.shields.io/badge/TopCoder-samratbaral-blue?style=flat-square&logo=topcoder"></a>
-    <a href="https://www.freecodecamp.org/samratbaral" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-samratbaral-blue?style=flat-square&logo=freecodecamp"></a>
-    <a href="https://www.fiverr.com/samratbaral" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-samratbaral-blue?style=flat-square&logo=fiverr"></a> -->
-    <!-- <a href="https://open.spotify.com/user/samratbaral" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-samratbaral-lightgreen?style=flat-square&logo=spotify"></a> -->
-    <!-- <a href="https://www.buymeacoffee.com/samratbaral" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-samratbaral-lightyellow?style=flat-square&logo=buy-me-a-coffee"></a> -->
-        <a href="https://media.licdn.com/dms/image/D562DAQFTaQZHRHb1Kg/profile-treasury-image-shrink_800_800/0/1701664576161?e=1702270800&v=beta&t=El0QJpDMnXAGjQkQ1y8DAAkd9lScTBKpGIj-MbNDEg8"><img src="https://media.licdn.com/dms/image/D562DAQFTaQZHRHb1Kg/profile-treasury-image-shrink_800_800/0/1701664576161?e=1702270800&v=beta&t=El0QJpDMnXAGjQkQ1y8DAAkd9lScTBKpGIj-MbNDEg8">
-    </a>
-</p>
-<p align='center'>
-
+     <a href="https://www.linkedin.com/in/samratbaral/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/samratbaral"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=5000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=100&lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=HindSiliguri&size=49&duration=6000&pause=3000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=50&lines={+Hello+World+!})](https://git.io/typing-svg) -->
+  ![Landing Page](image/cover_portfolio.png)
 
-<!--   my-ticker -->
-[![Hello](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=9000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=890&height=50&lines=Quotes+:+"+Never+Settle,+Always+Learn!+";+Hello+World+!;I+am+Samrat+Baral;I+am+a+Computer+Scientist,+a+Software+Developer;and+I+am+a+Research+Assistant;)](https://git.io/typing-svg)
+[![WELCOME](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=5000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=80&lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+[![BIO](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=30&duration=1000&pause=1000&color=58FF7B&background=ACFF6500&center=true&vCenter=false&multiline=true&repeat=false&random=false&width=1300&height=40&lines=Passionate+Developer+%7C+Research+Assistant+%7C+Computer+Science+Engineer+)](https://git.io/typing-svg)
 
-<!--   my-ticker -->
-[![Hello](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=10000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=890&height=50&lines=Experience+:+4+Years+of+Software+Development;lets+solve+problems+!!!;Some+project+are+open+source+check+below;ENJOY+CODING!!!)](https://git.io/typing-svg)
+<!-- <details open> #only when you want to open it while loading the page!-->
+<details>
+   <summary>
+   <h2>
 
+   ❖ About Me
+   </h2></summary>
 
+   [![SUMMARY](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=800&pause=1000&color=58FF7B&background=ACFF6500&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1200&height=180&lines=+I+am+a+student+in+Computer+Science.+An+accomplished+research+assistant+with+hands;+on+experience+in+web+development.+I+learned+about+Medical+Neuroscience+Image+;processing+and+how+to+use+tools+like+scikitlearn,+Pytorch,+TensorFlow,+DL,;+Python,+and+a+commitment+to+continuous+learning.+My+major+passion+lies+in+Deep+;Learning,+Web+development,+Mobile+App+development+,+and+Software+Development+on+;both+agile+and+waterfall+methods.)](https://git.io/typing-svg)
 
-
-
-<!-- <h2>
-<p align='center'> Passionate Developer | Research Assistant | Computer Science Engineer </p>
-</h2> -->
-
-<!-- <p align='justify'> 📫 I am a student in Computer Science. An accomplished research assistant with hands-on experience in web development. I learned about Medical Neuroscience Image processing and how to use tools like scikit-learn, Pytorch, TensorFlow, DL, Python, and a commitment to continuous learning. My major passion lies in Deep Learning, Web development, Mobile App development, and Software Development on both agile and waterfall methods.
-</p> -->
+</details>
 
 
-<!-- <pre class="tab1">
-🧐 Professional Coursework:<br>
-Object-Oriented Programming   Data Structures and Algorithms     Software Engineering
-Database Management System    Operating System                   Computer Networks
-Computer Architecture         Computer Graphics                  Artificial Intelligence
-Theoretical Concepts          Database and File Structure        Programming Languages
-Parallel Processing           Software Testing and Maintenance   Operation Research
-Information Security
-</pre> -->
+<details>
+   <summary><h2> ❖ Education and Interests </h2></summary>
 
-<!--
-<h5>💻 Languages & Tools 🛠️<br></h5>
+[![Hello](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=12000&pause=11000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=90&lines=+"+Never+Settle,+Always+Learn!+";I+am+Computer+Scientist,+CS+Student+and+Research+Assistant.;)](https://git.io/typing-svg)
+
+
+
+[![COURSES](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=500&pause=100&color=58FF7B&background=ACFF6500&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1200&height=550&lines=Topic+Interested+:+Always+Adding;;+►+Artificial+Intelligence;+►+Computer+Architecture;+►+Computer+Graphics;+►+Computer+Networks;+►+Database+and+File+Structure;+►+Database+Management+System;+►+Data+Structures+and+Algorithms;+►+Information+Security+Crptography;+►+Object+Oriented+Programming;+►+Operation+Research;+►+Operating+System;+►+Parallel+Processing;+►+Programming+Languages;+►+Software+Design+Patterns;+►+Software+Testing+and+Maintenance;+►+Theoretical+Concepts;)](https://git.io/typing-svg)
+
+</details open>
+
+<details>
+  <summary><h2> ❖ Languages & Tools </h2></summary>
+  <h3>
+
+[![Experience](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=10000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=890&height=50&lines=Experience+:+4+Years+of+Software+Development)](https://git.io/typing-svg)
+  </h3>
+
+  <p>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -142,7 +123,22 @@ Information Security
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000000?style=flat&logo=amazon-aws&labelColor=f5f5f5f5f5f5)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&labelColor=f5f5f5f5f5f5)
 ![mpi](https://img.shields.io/badge/-MPI-000000?style=flat&logo=mpi&labelColor=f5f5f5f5f5f5)
-![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl&labelColor=f5f5f5f5f5f5) -->
+![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl&labelColor=f5f5f5f5f5f5)
+  </p>
+</details>
+
+
+<details>
+  <summary><h2> ❖ Open Source Contribution</h2></summary>
+  <p align="left">
+    <a href="https://github.com/samratbaral/smartplanter-plantways"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samratbaral&repo=smartplanter-plantways&theme=react&bg_color=1F222E&title_color=58FF7B&hide_border=true&icon_color=58FF7B&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+</details>
+
+
+[![END](https://readme-typing-svg.herokuapp.com?font=Shizuru&size=49&duration=5000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=890&height=60&lines=Lets+Solve+Problems+!!!;ENJOY+CODING!!!)](https://git.io/typing-svg)
+
+
 
 
 <!-- <p align='center'>
@@ -152,8 +148,6 @@ Information Security
 <!-- <a href="https://github.com/samratbaral/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratbaral&layout=compact&langs_count=8&card_width=320" />
 </a> -->
-<!-- <img align="center" style="border-radius: 1px; margin: 0 0 1px 10px;" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="" /> -->
-</p>
-<br>
+
 
 
