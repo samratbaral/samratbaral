@@ -20,7 +20,7 @@
 [![COURSES](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=500&pause=100&color=58FF7B&background=ACFF6500&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1200&height=550&lines=Topic+Interested+:+Always+Adding;;+►+Artificial+Intelligence;+►+Computer+Architecture;+►+Computer+Graphics;+►+Computer+Networks;+►+Database+and+File+Structure;+►+Database+Management+System;+►+Data+Structures+and+Algorithms;+►+Information+Security+Crptography;+►+Object+Oriented+Programming;+►+Operation+Research;+►+Operating+System;+►+Parallel+Processing;+►+Programming+Languages;+►+Software+Design+Patterns;+►+Software+Testing+and+Maintenance;+►+Theoretical+Concepts;)](https://git.io/typing-svg)
 </details>
 <details>
-  <summary><h3> ❖ Languages & Tools </h3></summary>
+  <summary><h3> ❖ Skills and Experiences </h3></summary>
 
 [![Experience](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=25&duration=10000&pause=100&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=890&height=50&lines=Experience+:+4+Years+of+Software+Development)](https://git.io/typing-svg)
   <p>
