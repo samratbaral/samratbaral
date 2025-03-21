@@ -4,9 +4,9 @@
   <a href="https://www.buymeacoffee.com/samratbaral"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
-[![BIO](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=30&duration=1000&pause=1000&color=58FF7B&background=ACFF6500&center=true&vCenter=false&multiline=true&repeat=false&random=false&width=1300&height=40&lines=Passionate+Software+Developer+%7C+Research+Assistant+%7C+Computer+Scientist)](https://git.io/typing-svg)
+[![BIO](https://readme-typing-svg.herokuapp.com?font=HindSiliguri&size=30&duration=1000&pause=1000&color=58FF7B&background=ACFF6500&center=true&vCenter=false&multiline=true&repeat=false&random=false&width=1300&height=40&lines=Software+Developer+%7C+Research+Assistant+%7C+Computer+Scientist)](https://git.io/typing-svg)
   ![Landing Page](image/cover_portfolio.png)
-[![WELCOME](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=5000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=80&lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+[![WELCOME](https://readme-typing-svg.demolab.com?font=Shizuru&size=49&duration=3000&pause=5000&color=58FF7B&background=ACFF6500&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=800&height=80&lines=Hi+,+I+am+a+Problem+Solver+!)](https://git.io/typing-svg)
 <!-- <details open> #only when you want to open it while loading the page!-->
 <details>
    <summary><h3> ❖ About Me </h3></summary>
